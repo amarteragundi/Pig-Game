@@ -63,6 +63,9 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
 		// update the global score in DOM
 		document.querySelector('#score-' + activePlayer).textContent = scores[activePlayer];
 		var input = document.querySelector('.final-score').value;
+debugger;
+		input == "" ? input = 100 : input;
+
 		// decalare winner if score > 100
 		if(scores[activePlayer] >= input){
 				document.querySelector('#name-'+ activePlayer).textContent = 'Winner!';
