@@ -1,5 +1,6 @@
 /*
 Author: Amar Teragundi
+Description : Developed in ES5
 */
 
 var scores, roundScore, activePlayer, gamePlaying;
