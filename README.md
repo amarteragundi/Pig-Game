@@ -1,5 +1,7 @@
 # Pig-Game
-Pig game developed in vanilla JS (ES5) is a dice game.
+Pig game is a simple dice game.
+
+Developed in vanilla JS (ES5). 
 
 
 GAME RULES: 
