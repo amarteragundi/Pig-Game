@@ -1,5 +1,5 @@
 /*
-Author: Amar Teragundi sublime
+Author: Amar Teragundi
 */
 
 var scores, roundScore, activePlayer, gamePlaying;
